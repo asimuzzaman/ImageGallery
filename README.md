@@ -7,7 +7,7 @@ Responsive Image uploader and gallery with both frontend and backend.
 - Live search image using AJAX.
 - Both JSON and Eloquent ORM based data storage.
 - Auto horizontal scroll for images with larger title.
-[Watch demo here](https://www.youtube.com)
+[Watch video demo here](https://youtu.be/6Ng5MHblzA8)
 ### Technologies used:
   - HTML, Blade, CSS, JavaScript
   - Laravel 5.7
